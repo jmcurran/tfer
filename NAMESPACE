@@ -1,0 +1,7 @@
+import(methods)
+exportClasses(transfer)
+exportMethods(plot, show, summary, tprob)
+export(para)
+export(parameters)
+export(values)
+export(transfer)
